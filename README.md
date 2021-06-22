@@ -4,14 +4,16 @@ Email: [yegireddi.sateesh@gmail.com](mailto:yegireddi.sateesh@gmail.com)        
 
 ### Profile
 
-Senior iOS developer with more than 4 years of experience in creating iOS mobile applications. I aim to deliver the best user experience to mobile users by ensuring quality at each stage of the app development process.
+Senior iOS engineer with more than 6 years of experience in creating iOS mobile applications. My objective is deliver the best human experience to mobile users hence I make sure maintaining the quality at each and every project’s development stage.
 
-I am working as Senior Software Engineer in [Viola Services India Private Limited](https://www.violamoney.com) at present, in Hyderabad.
+I’ve completed my bachelor’s program in Engineering and working as Systems Analyst and part of Studios - Sports team in [Ivy Comptech](https://www.ivy.global/) at present, in Hyderabad.
+
 
 ### Core Skills
 ```markdown
+Technologies            iOS, React Native, Android
 Programming Languages 	Swift, Objective C
 Methodology 	          Agile, Scrum, JIRA, Gitflow
 Tools 	                Git, Cocoapods, TDD, Reactive Kit, Bond, Gitlab CI/CD, Hockey App, Google Analytics, 
                         Mix Panel Analytics, Fabric, Adobe XD
-Design Patterns	        MVVM, MVC, OOP, Protocol Oriented Programming
+Design Patterns	        MVVM, MVC, OOP, Protocol Oriented Programming, Reactive Programming

@@ -10,7 +10,7 @@ I’ve completed my bachelor’s program in Engineering and working as Systems A
 
 
 ### Core Skills
- Skills | Skill details
+ Skills | Details
 ------------ | ----------------
 Technologies | iOS, React Native, Android
 Programming Languages | Swift, Objective C

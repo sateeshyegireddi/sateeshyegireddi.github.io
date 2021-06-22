@@ -10,10 +10,10 @@ I’ve completed my bachelor’s program in Engineering and working as Systems A
 
 
 ### Core Skills
-```markdown
-Technologies            iOS, React Native, Android
-Programming Languages 	Swift, Objective C
-Methodology 	          Agile, Scrum, JIRA, Gitflow
-Tools 	                Git, Cocoapods, TDD, Reactive Kit, Bond, Gitlab CI/CD, Hockey App, Google Analytics, 
-                        Mix Panel Analytics, Fabric, Adobe XD
-Design Patterns	        MVVM, MVC, OOP, Protocol Oriented Programming, Reactive Programming
+ Skills | Details
+------------ | ----------------
+Technologies | iOS, React Native, Android
+Programming Languages | Swift, Objective C
+Methodology | Agile, Scrum, JIRA, Gitflow
+Tools | Git, Cocoapods, TDD, Reactive Kit, Bond, Gitlab CI/CD, Hockey App, Google Analytics, Mix Panel Analytics, Fabric, Adobe XD
+Design Patterns | MVVM, MVC, OOP, Protocol Oriented Programming, Reactive Programming
